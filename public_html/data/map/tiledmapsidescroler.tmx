@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="9" tilewidth="70" tileheight="70">
+ <tileset firstgid="1" name="background-tiles" tilewidth="70" tileheight="70">
+  <image source="../../../../platformer/platformer/public_html/data/img/background-tiles.png" width="910" height="910"/>
+ </tileset>
+ <tileset firstgid="170" name="miyamoto_tiles" tilewidth="70" tileheight="70">
+  <image source="../../../../platformer/platformer/public_html/data/img/miyamoto_tiles.png" width="291" height="378"/>
+ </tileset>
+ <tileset firstgid="190" name="oppcastle-mod-tiles" tilewidth="70" tileheight="70">
+  <image source="../../../../platformer/platformer/public_html/data/img/oppcastle-mod-tiles.png" width="480" height="352"/>
+ </tileset>
+ <tileset firstgid="220" name="player1-spritesheet" tilewidth="70" tileheight="70">
+  <image source="../../../../platformer/platformer/public_html/data/img/player1-spritesheet.png" width="360" height="360"/>
+ </tileset>
+ <tileset firstgid="245" name="player1-spritesheet" tilewidth="70" tileheight="70">
+  <image source="../../../../platformer/platformer/public_html/data/img/player1-spritesheet.png" width="360" height="360"/>
+ </tileset>
+ <tileset firstgid="270" name="master_sheet" tilewidth="70" tileheight="70">
+  <image source="../../../../platformer/platformer/public_html/data/img/master_sheet.png" width="2138" height="1570"/>
+ </tileset>
+ <tileset firstgid="930" name="item-spritesheet" tilewidth="70" tileheight="70">
+  <image source="../../../../platformer/platformer/public_html/data/img/item-spritesheet.png" width="560" height="560"/>
+ </tileset>
+ <tileset firstgid="994" name="cloud-tiles" tilewidth="70" tileheight="70">
+  <image source="../../../../platformer/platformer/public_html/data/img/cloud-tiles.png" width="387" height="71"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="16" height="9">
+  <data encoding="base64">
+   4gMAAOIDAADjAwAA5AMAAOUDAADmAwAA4gMAAOMDAADkAwAA5QMAAOYDAADiAwAA4wMAAOQDAADlAwAA5gMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAMUDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfAAAAMAAAABAAAAAQAAAAEAAAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXwAAABAAAAAQAAAAEAAAABAAAAAQAAAAWQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF8AAAAQAAAAmQAAADgAAACZAAAAEAAAAFkAAAAAAAAAOwAAADsAAAA7AAAAOwAAADsAAAA8AAAAOwAAADsAAABzAAAAEAAAABAAAAA3AAAAEAAAABAAAABZAAAAcQAAAEwAAABMAAAATAAAAEwAAABNAAAATQAAAE0AAABNAAAATQAAAE0AAABNAAAATQAAAE0AAABNAAAATQAAAE4AAAA+AAAAPgAAAD4AAAA+AAAAPgAAAD4AAAA+AAAAPgAAAD4AAAA+AAAAPgAAAD4AAAA+AAAAPgAAAD4AAAA+AAAA
+  </data>
+ </layer>
+</map>
